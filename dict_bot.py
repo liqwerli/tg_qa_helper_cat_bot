@@ -9,7 +9,7 @@ from telebot import TeleBot, types
 import random
 import os
 
-bot = TeleBot(token='5566874748:AAEGZDoqlCpVpJQ9LI6IA--z8AEUv2iynXA', parse_mode='html') # создание бота
+bot = TeleBot(token='токен бота', parse_mode='html') # создание бота
 
 # словарь с определениями и аббревиатурами, которые знает бот
 # в формате:
